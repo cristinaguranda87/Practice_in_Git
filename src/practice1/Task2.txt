@@ -1,0 +1,2 @@
+variables - container for data
+Data type: primitive & non primitive
