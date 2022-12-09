@@ -1,2 +1,6 @@
  non primitive data Type
  byte, short, int, long, float, double, char, boolean
+ editor: add the value by default for primitive data type
+..int = 0;
+boolean  =false;
+..
