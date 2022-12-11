@@ -1,0 +1,4 @@
+Constructor is a specilal method 
+Constructor must has the same name as currrent Class
+Constructor doesn't have return type 
+Contructor is can't be inheritetd, only can be call by new object
