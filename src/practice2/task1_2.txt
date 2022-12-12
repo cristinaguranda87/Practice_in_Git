@@ -1,0 +1,3 @@
+Java Virtual Machine is a virtual machine that enables the computer to run the Java program.
+
+JVM acts like a run-time engine which calls the main method present in the Java code.
