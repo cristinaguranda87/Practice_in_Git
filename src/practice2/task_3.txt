@@ -1,0 +1,2 @@
+Constructor is a special method
+it doesn't have any return type
